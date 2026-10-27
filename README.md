@@ -1,2 +1,2 @@
 # light-approval-gateway
-cloudfare
+Cloudflare
